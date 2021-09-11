@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Fabricio 😜!!
+### Hi there 👋  😜
 <div>
   <a href="https://github.com/fabgcruz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabgcruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
